@@ -15,6 +15,10 @@
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/> 
 <img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
 
+-Social
+<img src="https://img.shields.io/badge/slack-4A154B?style=flat&logo=slack&logoColor=white"/> 
+<img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/> 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangwe0719&layout=compact)](https://github.com/sangwe0719/github-readme-stats)
 
 
